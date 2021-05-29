@@ -29,6 +29,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunMinH&show_icons=true&theme=radical)
 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hyunminh.github.io/)
+
 <!--
 **HyunMinH/HyunMinH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
