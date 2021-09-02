@@ -2,31 +2,7 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hyunminh.github.io/)
 
-### Introduction
-
-* 🍀 Spring과 ♻️ OOP에 대해 관심이 많습니다.
-
-* 여러 문제들을 해결하는 것을 좋아합니다.
-
-* **좋은 품질의 코드** 를 작성하는데 고민을 하고 있습니다.
-
-* CI / CD 및 자동화에 관심이 있습니다.
-
-### Skills
-
-* Spring Framework
-
-* JPA
-
-* Jenkins
-
-### Currently Learning
-
-* Domain Driven Development
-
-* Clean Code & Test
-
-* Spring Framework
+![About me](https://humdrum-doom-661.notion.site/Hyun-8fc8ce18c32746fb9e1d8ac9bf382e7f)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunMinH&show_icons=true&theme=radical)
