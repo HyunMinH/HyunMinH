@@ -2,8 +2,6 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hyunminh.github.io/)
 
-![About me](https://humdrum-doom-661.notion.site/Hyun-8fc8ce18c32746fb9e1d8ac9bf382e7f)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunMinH&show_icons=true&theme=radical)
 
